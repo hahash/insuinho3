@@ -48,6 +48,7 @@ table,tr,td{border:1px solid #000;}
 
 						<option value="javascript">javascript</option>
 						<option value="css">css</option>
+						<option value="servlet">servlet</option>
 
 				</select></td>
 			</tr>
